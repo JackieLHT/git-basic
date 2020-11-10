@@ -1,3 +1,5 @@
 Created newfile.txt, pushing to GitHub.
 
 Updated newfile.txt
+
+Making changes on GitHub
