@@ -28,4 +28,8 @@ Other useful commands to see what is going on the git repository:
 
 ## Practice Output 
 1. Your repo url in Github
+https://github.com/JackieLHT/git-basic
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
+'add' is adding the editted files to the staging area but not yet commited.
+'commit' commits the files that have been added and creates a new revision with a log.
+'push' pushes your changes to the remote repository.
